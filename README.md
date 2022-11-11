@@ -6,9 +6,8 @@ Este bot foi feito para ser usado em um sistema especifico, chamado Holmes. Este
 O bot recebe o link da página que contém os arquivos, realiza o calculo da quantidade de páginas, e inicia o download / renomeio dos arquivos.
 
 
-************* English *************
+# ************* English *************
 
-# Bot - Holmes Downloader
 Bot for downloading files from Holmes (system), using web scraping (Playwright)
 
 This bot is meant to be used for a specific system, named Holmes. This system is used for managing important files and documents from a company.
